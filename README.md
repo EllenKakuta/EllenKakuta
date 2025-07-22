@@ -4,7 +4,6 @@ Depois de alguns anos trabalhando com suporte técnico e implantação de sistem
 Estou construindo minha transição de carreira com muito estudo e dedicação, especialmente na área de inteligência artificial, que vem despertando cada vez mais o meu interesse.
 
 🎯 No momento estou:
-- Estudando Python pelo Curso em Vídeo (Mundos 1, 2 e 3)
 - Construindo projetos para praticar o que venho aprendendo
 - Me organizando para entrar de vez no mercado tech
 
