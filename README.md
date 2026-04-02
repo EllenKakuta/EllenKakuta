@@ -1,4 +1,4 @@
-# Oi, eu sou a Ellen!
+#👋 Oi, eu sou a Ellen!
 
 Estou em transição para a área de Dados, com foco em prevenção a fraudes e análise de comportamento (churn).
 
