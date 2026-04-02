@@ -2,7 +2,7 @@
 
 Estou em transição para a área de Dados, com foco em prevenção a fraudes e análise de comportamento (churn).
 
-Tenho experiência com atendimento e onboarding de clientes, o que me deu uma visão prática de negócio — hoje aplico isso no desenvolvimento dos meus projetos em Python.
+Tenho experiência com atendimento, suporte e onboarding de clientes, o que me deu uma visão prática de negócio — hoje aplico isso no desenvolvimento dos meus projetos em Python.
 
 ---
 
